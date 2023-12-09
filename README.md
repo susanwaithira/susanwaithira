@@ -1,4 +1,4 @@
-<img alt="Night Coding" width='40' align="left"/><h2>Hey there! I'm Susan</h2>
+<img align="left"/><h2>Hey there! I'm Susan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Susan -->
 
